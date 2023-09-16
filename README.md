@@ -13,6 +13,9 @@ Após executar a API, é possível acessar a documentação por meio da url:
 http://localhost:3000/docs
 ```
 
+
+
+
 Nome do dispositivo: lab3-24
 Processador:Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz   2.90 GHz
 Ram: 16,0 GB
@@ -27,6 +30,7 @@ Modelo do Sistema optiPlex 3080
 Disco SSD  armazenamento secundário: 222GB
 
 Capacidade Maxima arrivalRate:350
+
 Capacidade Min. arrivalRate:150
 
 ``` console 
@@ -57,3 +61,6 @@ vusers.session_length:
   p95: ......................................................................... 8.1
   p99: ......................................................................... 30.9
   ```
+
+
+
